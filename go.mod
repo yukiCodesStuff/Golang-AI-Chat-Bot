@@ -1,4 +1,4 @@
-module example/user/hello
+module Golang-AI-Chat-Bot
 
 go 1.22.1
 
